@@ -268,6 +268,7 @@ public class Main {
         g.addEdge(221, 223, 1310);
         g.addEdge(222, 224, 900);
         g.addEdge(193, 224, 920); 
+        g.addEdge(223, 227, 2310);
         g.addEdge(224, 225, 450); 
         g.addEdge(225, 226, 920); 
         g.addEdge(226, 227, 1240);
@@ -449,7 +450,7 @@ public class Main {
         roomName[107] = "Ruang Penyimpanan ATK K Lt. 4";
         roomName[108] = "Studio FOTOGRAFI";
         roomName[109] = "Tangga Darurat 1 K Lt. 4";
-        roomName[110] = "Ruang Seminar K Lt. 4";
+        roomName[110] = "Ruang Seminar R Lt. 4";
         roomName[111] = "Studio Bahan Interior K Lt. 4";
         roomName[112] = "Loket Pelayanan Program Studi DKV";
         roomName[113] = "Tangga Darurat 1 R Lt. 4";
