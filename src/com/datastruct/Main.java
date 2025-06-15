@@ -365,7 +365,7 @@ public class Main {
         roomName[23] = "Toilet R Lt. 1";
         roomName[24] = "LAB. Dinamika Fluida";
         roomName[25] = "LAB. Jalan Raya dan Transportasi";
-        roomName[26] = "Tangga Darurat 1 R Lt. 1";
+        roomName[26] = "Tangga Darurat 2 R Lt. 1";
         roomName[27] = "Perpustakaan Teknik";
         roomName[28] = "Tangga Darurat 2 L Lt.2";
         roomName[29] = "Toilet L Lantai 2";
